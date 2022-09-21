@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PDF reader app</string>
+</resources>
+
